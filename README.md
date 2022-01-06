@@ -2,7 +2,7 @@
 
 
 ```
-url coming
+ghcr.io/etskacoding/ptero-nginx:latest
 ```
 
 How to use:
